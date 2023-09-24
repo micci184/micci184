@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="left">
+  <a href="https://github.com/micci184/micci184/">
+    <img src="https://komarev.com/ghpvc/?username=micci184" alt="micci184" />
+  </a>
+  <a href="http://qiita.com/micci184">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/micci184/posts.svg" />
+  </a>
+  <//qiita.com/micci184">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/micci184/contributions.svg" />
+  </a>
+</p>
 
-<!--
-**micci184/micci184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=micci184&theme=dracula&count_private=true&show_icons=true" />
+</a>
 
-Here are some ideas to get you started:
+[![](https://github-readme-streak-stats.herokuapp.com/?user=micci184&theme=dracula)](https://github-readme-streak-stats.herokuapp.com/?user=micci184&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micci184&theme=dracula)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micci184&langs_count=8&theme=dracula" />
+</a>
