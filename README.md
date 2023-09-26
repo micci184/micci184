@@ -28,13 +28,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg??style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg??style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23007ACC.svg??style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%6DA55F.svg??style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23323330.svg??style=flat-square&logo=Python&logoColor=white)
 
 ## Frameworks & Library
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=Vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
