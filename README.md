@@ -18,9 +18,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micci184&langs_count=8&theme=dracula" />
 </a>
 
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=micci184&theme=dracula)](https://github-readme-streak-stats.herokuapp.com/?user=micci184&theme=dracula)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micci184&theme=dracula)
 
 ## Languages
