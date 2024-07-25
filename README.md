@@ -33,6 +33,7 @@
 ## Frameworks & Library
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=Vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/-React-555.svg?logo=react&style=flat-square&logoColor=4FC08D)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
