@@ -37,6 +37,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=fff)
 
 ## Cloud
 
