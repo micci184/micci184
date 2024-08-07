@@ -35,7 +35,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=Vue.js&logoColor=4FC08D)
 ![React](https://shields.io/badge/react-black?logo=react&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=fff)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ## Cloud
 
