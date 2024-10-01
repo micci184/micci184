@@ -18,8 +18,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micci184&langs_count=8&theme=dracula" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micci184&theme=dracula)
-
 ## Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg??style=flat-square&logo=html5&logoColor=white)
