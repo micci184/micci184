@@ -11,7 +11,6 @@
     </a>
   </p>
 </div>
-
 <div style="clear: both; margin-bottom: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
