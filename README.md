@@ -48,7 +48,6 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
       <img src="https://img.shields.io/badge/css3-%23323330.svg?style=flat-square&logo=CSS3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-%23007ACC.svg?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/node.js-%6DA55F.svg?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-%23323330.svg?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
     </div>
