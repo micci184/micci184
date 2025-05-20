@@ -13,12 +13,6 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
     <a href="https://github.com/micci184/micci184" target="_blank" title="My GitHub Profile">
       <img src="https://komarev.com/ghpvc/?username=micci184" alt="micci184" style="max-width: 150px; margin-bottom: 5px;" />
     </a>
-    <a href="http://qiita.com/micci184" target="_blank">
-      <img height="20" src="https://qiita-badge.apiapi.app/s/micci184/posts.svg" style="margin-bottom: 5px;" />
-    </a>
-    <a href="http://qiita.com/micci184" target="_blank">
-      <img height="20" src="https://qiita-badge.apiapi.app/s/micci184/contributions.svg" />
-    </a>
   </p>
 </div>
 
