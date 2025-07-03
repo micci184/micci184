@@ -93,6 +93,16 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
     </div>
   </div>
 
+  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
+       onmouseover="this.style.transform='translateY(-5px)'" 
+       onmouseout="this.style.transform='translateY(0)'">
+    <h3 style="color:#a9b1d6;">🤖 AI Tools</h3>
+    <div>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Windsurf-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgMTJMMTIgMjJMMiAxMkwxMiAyWiIgZmlsbD0iIzU4RTVCQSIvPgo8L3N2Zz4%3D&logoColor=%2358E5BA"/>
+    </div>
+  </div>
+
   <!-- Tools -->
   <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
        onmouseover="this.style.transform='translateY(-5px)'" 
