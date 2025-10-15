@@ -39,97 +39,106 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
 <div style="display:flex; flex-wrap:wrap; gap:16px; font-family:sans-serif;">
 
   <!-- Languages -->
-  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
-       onmouseover="this.style.transform='translateY(-5px)'" 
+  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;"
+       onmouseover="this.style.transform='translateY(-5px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color:#a9b1d6;">🌐 Languages</h3>
     <div>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/css3-%23323330.svg?style=flat-square&logo=CSS3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-%23007ACC.svg?style=flat-square&logo=JavaScript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-%23323330.svg?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
+      <img
+        src="https://skillicons.dev/icons?i=html,css,js,ts,python,go&theme=dark&perline=6"
+        alt="HTML, CSS, JavaScript, TypeScript, Python, Go"
+        style="height:32px"
+        loading="lazy"
+      />
     </div>
   </div>
 
-  <!-- Frameworks -->
-  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
-       onmouseover="this.style.transform='translateY(-5px)'" 
+  <!-- Frameworks & Libraries -->
+  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;"
+       onmouseover="this.style.transform='translateY(-5px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color:#a9b1d6;">🚧 Frameworks & Libraries</h3>
-    <div>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=Vue.js&logoColor=4FC08D"/>
-      <img src="https://shields.io/badge/react-black?logo=react&style=flat-square"/>
-      <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E"/>
-      <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <!-- ★ NEW: Shadcn/ui -->
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=react&logoColor=white"/>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+      <!-- skillicons まとめ（Vue, React, Vite, Next.js） -->
+      <img
+        src="https://skillicons.dev/icons?i=vue,react,vite,nextjs&theme=dark&perline=8"
+        alt="Vue, React, Vite, Next.js"
+        style="height:32px"
+        loading="lazy"
+      />
     </div>
   </div>
 
-  <!-- Cloud -->
-  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
-       onmouseover="this.style.transform='translateY(-5px)'" 
+  <!-- Cloud Platforms -->
+  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;"
+       onmouseover="this.style.transform='translateY(-5px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color:#a9b1d6;">☁️ Cloud Platforms</h3>
-    <div>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+      <!-- skillicons まとめ（AWS, GCP, Azure） -->
+      <img
+        src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark&perline=6"
+        alt="AWS, Google Cloud, Azure"
+        style="height:32px"
+        loading="lazy"
+      />
     </div>
   </div>
 
   <!-- IaC & Container -->
-  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
-       onmouseover="this.style.transform='translateY(-5px)'" 
+  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;"
+       onmouseover="this.style.transform='translateY(-5px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color:#a9b1d6;">📦 IaC & Container</h3>
-    <div>
-      <img src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=844FBA&logo=Terraform&logoColor=FFFFFF&label="/>
-      <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white"/>
-      <img src="https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat-square&logo=packer&logoColor=%2302A8EF"/>
-      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+      <!-- skillicons まとめ（Terraform, Kubernetes, Docker） -->
+      <img
+        src="https://skillicons.dev/icons?i=terraform,kubernetes,docker&theme=dark&perline=6"
+        alt="Terraform, Kubernetes, Docker"
+        style="height:32px"
+        loading="lazy"
+      />
     </div>
   </div>
 
-  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
-       onmouseover="this.style.transform='translateY(-5px)'" 
-       onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color:#a9b1d6;">🤖 AI Tools</h3>
-    <div>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-      <img src="https://img.shields.io/badge/Windsurf-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgMTJMMTIgMjJMMiAxMkwxMiAyWiIgZmlsbD0iIzU4RTVCQSIvPgo8L3N2Zz4%3D&logoColor=%2358E5BA" />
-      <img src="https://img.shields.io/badge/Devin%20AI-000000?style=flat-square&logo=openai&logoColor=white" />
-    </div>
-  </div>
-
-  <!-- Tools -->
-  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
-       onmouseover="this.style.transform='translateY(-5px)'" 
+  <!-- Tools & Platforms -->
+  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;"
+       onmouseover="this.style.transform='translateY(-5px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color:#a9b1d6;">🛠️ Tools & Platforms</h3>
-    <div>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+      <!-- skillicons まとめ（GitHub, GitLab, VSCode, Postman） -->
+      <img
+        src="https://skillicons.dev/icons?i=github,gitlab,vscode,postman&theme=dark&perline=8"
+        alt="GitHub, GitLab, VSCode, Postman"
+        style="height:32px"
+        loading="lazy"
+      />
     </div>
   </div>
 
-  <!-- Games -->
-  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;" 
-       onmouseover="this.style.transform='translateY(-5px)'" 
+  <!-- AI Tools -->
+  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;"
+       onmouseover="this.style.transform='translateY(-5px)'"
+       onmouseout="this.style.transform='translateY(0)'">
+    <h3 style="color:#a9b1d6;">🤖 AI Tools</h3>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+      <!-- ここはskillicons未対応が多いので従来シールド維持 -->
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+      <img src="https://img.shields.io/badge/Windsurf-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgMTJMMTIgMjJMMiAxMkwxMiAyWiIgZmlsbD0iIzU4RTVCQSIvPgo8L3N2Zz4%3D&logoColor=%2358E5BA" alt="Windsurf"/>
+      <img src="https://img.shields.io/badge/Devin%20AI-000000?style=flat-square&logo=openai&logoColor=white" alt="Devin AI"/>
+    </div>
+  </div>
+
+  <!-- Favorite Games -->
+  <div style="background:#1a1b27;padding:14px;border-radius:12px;transition:transform 0.2s;"
+       onmouseover="this.style.transform='translateY(-5px)'"
        onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color:#a9b1d6;">🎮 Favorite Games</h3>
     <div>
-      <!-- ★ FIFA → FC26 -->
-      <img src="https://img.shields.io/badge/FC26-B7312F?style=flat-square&logo=ea&logoColor=white"/>
+      <!-- EA/FCはskillicons未対応想定なので従来シールド維持 -->
+      <img src="https://img.shields.io/badge/FC26-B7312F?style=flat-square&logo=ea&logoColor=white" alt="EA FC26"/>
     </div>
   </div>
 </div>
+
