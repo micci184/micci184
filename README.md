@@ -17,6 +17,15 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
 </div>
 
 <div style="display: flex; gap: 20px;">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" style="flex: 1;">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micci184&theme=tokyonight"
+      height="150"
+      alt="GitHub Profile Details"
+      style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); object-fit: cover;"
+      loading="lazy"
+    />
+  </a>
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" style="flex: 1;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=micci184&theme=tokyonight&count_private=true&show_icons=true"
