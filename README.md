@@ -20,12 +20,12 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
   <p align="left">
     <img
       src="https://github-readme-stats.vercel.app/api?username=micci184&show_icons=true&theme=tokyonight&hide_border=true"
-      height="150"
+      height="120"
       alt="GitHub stats"
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=micci184&layout=compact&theme=tokyonight&hide_border=true"
-      height="150"
+      height="120"
       alt="Top Languages"
     />
   </p>
