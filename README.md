@@ -10,15 +10,15 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
 
 <div align="left">
   <a href="https://github.com/micci184">
-    <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api?username=micci184&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true"
-         height="140"
+    <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api?username=micci184&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&hide_border=true"
+         height="120"
          alt="GitHub stats" />
   </a>
-  <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/top-langs/?username=micci184&layout=compact&theme=dracula&hide_border=true"
-       height="140"
+  <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/top-langs/?username=micci184&layout=compact&hide_border=true"
+       height="120"
        alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micci184&theme=dracula&hide_border=true"
-       height="140"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micci184&hide_border=true"
+       height="120"
        alt="GitHub Streak" />
 </div>
 
