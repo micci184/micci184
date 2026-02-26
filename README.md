@@ -14,12 +14,12 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
          height="100"
          alt="GitHub stats" />
   </a>
-  <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/top-langs/?username=micci184&layout=compact&hide_border=true"
-       height="100"
-       alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=micci184&hide_border=true"
        height="100"
        alt="GitHub Streak" />
+  <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/top-langs/?username=micci184&layout=compact&hide_border=true"
+     height="100"
+     alt="Top Languages" />
 </div>
 
 <!-- Tech Stack Cards -->
