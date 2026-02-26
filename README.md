@@ -8,27 +8,18 @@ I'm a passionate **Technical Architect & Developer** specializing in building mo
 - Exploring and adopting modern technology stacks.
 - Sharing knowledge and best practices with the tech community.
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-  <p align="left">
-    <a href="https://github.com/micci184/micci184" target="_blank" title="My GitHub Profile">
-      <img src="https://komarev.com/ghpvc/?username=micci184" alt="micci184" style="max-width: 150px; margin-bottom: 5px;" />
-    </a>
-  </p>
-</div>
-
-<div style="display: flex; gap: 20px;">
-  <p align="left">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=micci184&show_icons=true&theme=tokyonight&hide_border=true"
-      height="120"
-      alt="GitHub stats"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=micci184&layout=compact&theme=tokyonight&hide_border=true"
-      height="120"
-      alt="Top Languages"
-    />
-  </p>
+<div align="left">
+  <a href="https://github.com/micci184">
+    <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api?username=micci184&hide=prs,contribs,issues&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true"
+         height="140"
+         alt="GitHub stats" />
+  </a>
+  <img src="https://github-readme-stats-vercel-hazel-nine.vercel.app/api/top-langs/?username=micci184&layout=compact&theme=dracula&hide_border=true"
+       height="140"
+       alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micci184&theme=dracula&hide_border=true"
+       height="140"
+       alt="GitHub Streak" />
 </div>
 
 <!-- Tech Stack Cards -->
